@@ -10,6 +10,9 @@ The project focuses primarily on tech events in:
 - Brno
 - Prague
 
+## Usage
+coming soon
+
 ## Goal
 
 Tech events in Czechia are spread across many different websites and communities.
